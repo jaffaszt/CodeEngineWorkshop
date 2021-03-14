@@ -11,3 +11,8 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 # IBM Code Engine samples 
 https://github.com/IBM/CodeEngine
+
+# IBM Cloud Code Engine in the cloud catalog 
+https://cloud.ibm.com/codeengine/overview
+
+
