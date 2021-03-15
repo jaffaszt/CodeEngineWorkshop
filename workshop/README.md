@@ -10,6 +10,8 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 First run the setup steps then go to Exercise 1 
 [access to IBM OpenLabs for Code Engine]( https://developer.ibm.com/openlabs/fs2021-codeengine)
 
+in case Openlabs are not working well go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial
+
 # IBM Code Engine samples 
 https://github.com/IBM/CodeEngine
 
