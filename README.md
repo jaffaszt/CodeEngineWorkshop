@@ -1,4 +1,4 @@
-# jaffa Sztejjnbok IBM Code Engine Workshop 
+# jaffa Sztejnbok IBM Code Engine Workshop 
 
 
 This is the repository for the IBM Code Engine  workshop presented by Jaffa Sztejnbok from  IBM
