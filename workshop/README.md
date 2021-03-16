@@ -17,11 +17,11 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 this is the Code Engine User Interface , you will be able to deploy apps from here, but we will start first deploying applications using the CE CLI.
 2. Click on the  IBM Cloud Shell (at the right side of the screen), IBM CLoud Shell has all the needed CLI's installed .
 ![](README_IMAGES/gotocli.png)
-3.  On the Terminal (at the right side of the screen) log in to the IBM Cloud CLI: `ibmcloud login -a cloud.ibm.com -r eu-gb`
+3. Log in to the IBM Cloud CLI: `ibmcloud login -a cloud.ibm.com -r us-south`
 4. Enter your IBM Cloud credentials when prompted.
   **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
   
-3. Select an account Enter a number : `the number of DTE Cloud Platform probably 2  `  ( account where your preconfigured cluster is)   
+3. Select an account Enter a number : `your account probably 1  `  ( # not # the DTE account )   
 
 
 
