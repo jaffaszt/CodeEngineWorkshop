@@ -21,7 +21,7 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
 4. Enter your IBM Cloud credentials when prompted.
   **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
   
-3. Select an account Enter a number : `your account probably 1  `  ( # not # the DTE account )   
+3. Select an account Enter a number : `your account probably 1  `  ( **not** the DTE account )   
 
 
 
