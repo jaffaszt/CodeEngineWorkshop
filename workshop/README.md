@@ -24,7 +24,7 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
 3. Select an account Enter a number : `your account probably 1  `  ( **not** the DTE account )   
 4. Target a resource group by running the following command `ibmcloud target -g default`
 5. Create a project `ibmcloud ce project create --name myproj`
-6. Go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial and start with" **Tutorial: Deploying applications** and then you may run all the other tutorials.
+6. Go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial and start with" **Tutorial: Deploying applications step 1** and then you may run all the other tutorials.
 
 # IBM Code Engine samples 
 https://github.com/IBM/CodeEngine
