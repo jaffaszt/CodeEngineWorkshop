@@ -22,7 +22,7 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
   **Note:** If you have a federated ID, use `ibmcloud login --sso` to log in to the IBM Cloud CLI. Enter your user name, and use the provided URL in your CLI output to retrieve your one-time passcode. You know you have a federated ID when the login fails without the `--sso` and succeeds with the `--sso` option.
   
 3. Select an account Enter a number : `your account probably 1  `  ( **not** the DTE account )   
-4. Target a resource group by running the following command `iibmcloud target -g default`
+4. Target a resource group by running the following command `ibmcloud target -g default`
 5. Create a project `ibmcloud ce project get --name myproj`
 6. Go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial and start with" **Tutorial: Deploying applications** and then you may run all the other tutorials.
 
