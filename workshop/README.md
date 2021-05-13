@@ -10,8 +10,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 <!---  First run the setup steps then go to Exercise 1 ---> 
 <!---  [access to IBM OpenLabs for Code Engine]( https://developer.ibm.com/openlabs/fs2021-codeengine) --->
 # Get xxx for Code Engine 
-Please go to:
-(https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
+[Please go to:](https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
 
 Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
 
