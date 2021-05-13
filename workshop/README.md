@@ -23,7 +23,7 @@ You will be able to use this option ( without a credit card ) to use Code Engine
 
 # Go to Code Engine and start working 
  
-1. From the IBM Cloud dashboard choose Code Engine from the left side bar , please mak sure that you using the IBM Lab Account --> 1840867- Advowork 
+1. From the IBM Cloud dashboard choose Code Engine from the left side bar , please make sure that you using the IBM Lab Account --> 1840867- Advowork 
 ![](README_IMAGES/GoToCE.png)
 this is the Code Engine User Interface , you will be able to deploy apps from here, but we will start first deploying applications using the CE CLI.
 2. Click on the  IBM Cloud Shell (at the right side of the screen), IBM CLoud Shell has all the needed CLI's installed .
