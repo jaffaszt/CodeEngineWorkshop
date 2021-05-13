@@ -11,7 +11,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 <!---  [access to IBM OpenLabs for Code Engine]( https://developer.ibm.com/openlabs/fs2021-codeengine) --->
 # Get xxx for Code Engine 
 1. [Please go to:](https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
-2. Click on    to Login in to the IBM  Clour (or via https://cloud.ibm.com/)
+2. Click on the "Login in to this" to Login in to the IBM  Clour (or via https://cloud.ibm.com/)
 
 ![](README_IMAGES/LogIn.png)
 
