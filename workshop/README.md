@@ -26,6 +26,13 @@ this is the Code Engine User Interface , you will be able to deploy apps from he
 5. Create a project `ibmcloud ce project create --name myproj`
 6. Go to https://cloud.ibm.com/docs/codeengine?topic=codeengine-deploy-app-tutorial and start with" **Tutorial: Deploying applications step 1** and then you may run all the other tutorials.
 
+
+# Get xxx for Code Engine 
+Please go to:
+https://code-engine-workshop.mybluemix.net> with the password of `cerocks`
+
+Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
+
 # IBM Code Engine samples 
 https://github.com/IBM/CodeEngine
 
