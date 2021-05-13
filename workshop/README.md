@@ -19,11 +19,11 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 ![](README_IMAGES/LogIn.png)
 
-Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
+You will be able to use this option ( without a credit card ) to use Code Engine only for a short period of time. Please note that we will delete  any project that is older then 24-72 hours, so this is designed for short term learning.
 
 # Go to Code Engine and start working 
  
-1. From the IBM Cloud dashboard choose Code Engine from the left side bar 
+1. From the IBM Cloud dashboard choose Code Engine from the left side bar , please mak sure that you using the IBM Lab Account --> 1840867- Advowork 
 ![](README_IMAGES/GoToCE.png)
 this is the Code Engine User Interface , you will be able to deploy apps from here, but we will start first deploying applications using the CE CLI.
 2. Click on the  IBM Cloud Shell (at the right side of the screen), IBM CLoud Shell has all the needed CLI's installed .
