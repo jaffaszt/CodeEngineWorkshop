@@ -18,7 +18,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
 
-# Login to IBMCLOUD 
+# Go to Code Engine and start working 
  
 1. From the IBM Cloud dashboard choose Code Engine from the left side bar 
 ![](README_IMAGES/GoToCE.png)
