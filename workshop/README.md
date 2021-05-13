@@ -11,11 +11,13 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 <!---  [access to IBM OpenLabs for Code Engine]( https://developer.ibm.com/openlabs/fs2021-codeengine) --->
 # Request to be authorized to create Code Engine projects under the IBM Lab Account  
 1. [Please go to:](https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
+ 
+![](README_IMAGES/IBMCloudLab.png)
 
-![](README_IMAGES/LogIn.png)
+
 2. Click on the "Login in to this" to Login in to the IBM  Cloud (or via https://cloud.ibm.com/)
 
-
+![](README_IMAGES/LogIn.png)
 
 Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
 
