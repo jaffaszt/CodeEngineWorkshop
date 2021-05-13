@@ -10,14 +10,16 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 <!---  First run the setup steps then go to Exercise 1 ---> 
 <!---  [access to IBM OpenLabs for Code Engine]( https://developer.ibm.com/openlabs/fs2021-codeengine) --->
 # Get xxx for Code Engine 
-[Please go to:](https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
+1. [Please go to:](https://code-engine-workshop.mybluemix.net) with the password of `cerocks`
+2. Click on    to Login in to the IBM  Clour (or via https://cloud.ibm.com/)
+![](README_IMAGES/Login.png)
 
 Please note that we have a cron job that deletes any project that is older then 24-72 hours, so this is designed for short term learning.
 
 # Login to IBMCLOUD 
  
 1. From the IBM Cloud dashboard choose Code Engine from the left side bar 
-![](README_IMAGES/codeengine.png)
+![](README_IMAGES/GoToCE.png)
 this is the Code Engine User Interface , you will be able to deploy apps from here, but we will start first deploying applications using the CE CLI.
 2. Click on the  IBM Cloud Shell (at the right side of the screen), IBM CLoud Shell has all the needed CLI's installed .
 ![](README_IMAGES/gotocli.png)
