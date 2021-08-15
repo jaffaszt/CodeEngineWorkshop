@@ -17,7 +17,7 @@ Please make sure to run all steps to get a valid IBM Lite Cloud account
 
 2. You will soon get an email with an invite , please follow the instructions.
 
-![](README_IMAGES/LogIn.png)
+<!----[](README_IMAGES/LogIn.png) --->
 
 You will be able to use this option  to use Code Engine only for a short period of time. Please note that we will delete  any project that is older then 24-72 hours, so this is designed for short term learning.
 
